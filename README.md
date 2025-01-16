@@ -75,7 +75,7 @@ python parkinsons_detection.py
 
 ## Expected Output:
  #### - Best Model: Random Forest
- #### -Accuracy: 93.88%
+ #### - Accuracy: 93.88%
 
 ---
 

@@ -23,9 +23,7 @@ This project is designed to detect Parkinson's Disease using machine learning te
 
 ## Visuals  
 ### Correlation Heatmap of Features:  
-![Heatmap](https://via.placeholder.com/800x400.png?text=Feature+Correlation+Heatmap)  
-
-### Model Accuracy Comparison:  
+#### Model Accuracy Comparison:  
 | Model                           | Accuracy|  
 |---------------------------------|---------|  
 | Logistic Regression             | 87.76%  |  

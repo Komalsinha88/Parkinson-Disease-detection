@@ -94,3 +94,10 @@ python parkinsons_detection.py
 ---
 ### Project Status
 - This project is actively maintained. Future contributions and suggestions are encouraged to improve its functionality and scope.
+
+---
+### Contributions
+- Komal Sinha
+- Sunny Kushwaha
+- Mansi Mankar
+- Jawahar Lal Singh

@@ -40,4 +40,59 @@ Follow these steps to set up and run the project locally:
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/your-username/parkinsons-detection.git  
-   cd parkinsons-detection  
+   cd parkinsons-detection
+   ``` 
+2.Install the required dependencies:
+ ```bash 
+pip install -r requirements.t
+ ```
+3. Place the dataset file (parkinsons.csv) in the project directory.
+Run the Python script:
+```bash 
+python parkinsons_detection.py
+```
+---
+
+### Requirements:
+- Python 3.8 or later
+-Libraries:
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+
+---
+
+## Usage
+- Load the dataset and preprocess the features.
+- Train and evaluate three models:
+     -Logistic Regression
+     -Support Vector Classifier (SVC)
+     -Random Forest Classifier
+     -Perform hyperparameter tuning on the Random Forest model.
+     -Output the accuracy of each model and the best hyperparameters for Random Forest.
+
+---
+
+## Expected Output:
+ #### - Best Model: Random Forest
+ #### -Accuracy: 93.88%
+
+---
+
+## Contributing
+###Contributions are welcome!
+
+   1. Fork the repository.
+   2. Create a new branch for your feature or bug fix.
+   3. Submit a pull request with a detailed description of your changes.
+
+---
+
+## Acknowledgments:
+ - Special thanks to the [UCI Machine Learning Repository](https://archive.ics.uci.edu/) for providing the Parkinson's Disease dataset.
+
+---
+### Project Status
+- This project is actively maintained. Future contributions and suggestions are encouraged to improve its functionality and scope.
